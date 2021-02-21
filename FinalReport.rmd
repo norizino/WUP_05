@@ -65,7 +65,9 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
+  The P-value is 0.00006596, this is a small number, so small that the results we found are not likely to have occurred by chance.
 
+  The odds ratio is 1.543902, this means that woman who got the vaccine were about 1.5 times more likely to get aids than women who got the placebo. 
 
 # Discussion and Conclusion
 
